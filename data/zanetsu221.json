@@ -1,1 +1,18 @@
-https://youtu.be/ydFvofmwv_w?si=n1DyGtGI8uFY8cYx
+{
+    "id": 78044066,
+    "name": "zanetsu221",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/ydFvofmwv_w?si=n1DyGtGI8uFY8cYx",
+    "percentToQualify": "32",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "raevenwolf",
+            "link": "https://youtu.be/ydFvofmwv_w?si=n1DyGtGI8uFY8cYx",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
