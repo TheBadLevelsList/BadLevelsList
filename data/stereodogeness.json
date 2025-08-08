@@ -1,0 +1,24 @@
+{
+    "id": 107422900,
+    "name": "Stereo Dogeness",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/5nh0cpWQ8rI?si=mxxdXUFBdtpE1f3_",
+    "percentToQualify": "56",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "raevenwolf",
+            "link": "https://youtu.be/5nh0cpWQ8rI?si=mxxdXUFBdtpE1f3_",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "HappyJaffa",
+            "link": "https://youtu.be/5nh0cpWQ8rI?si=mxxdXUFBdtpE1f3_",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
