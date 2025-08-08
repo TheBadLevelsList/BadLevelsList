@@ -5,7 +5,7 @@
     "creators": ["HappyJaffa"],
     "verifier": "HappyJaffa",
     "verification": "https://youtu.be/EDypB2B4aqo?si=KG2U4gYNf2eKBZYR",
-    "percentToQualify": "14",
+    "percentToQualify": "9",
     "password": "Free To Copy",
     "records": [
         {
@@ -13,12 +13,6 @@
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
         }
     ]
 }
