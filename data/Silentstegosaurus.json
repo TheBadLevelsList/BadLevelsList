@@ -1,0 +1,24 @@
+{
+    "id": 78044066,
+    "name": "Silent stegosaurus",
+    "author": "raevenwolf",
+    "creators": ["raevenwolf"],
+    "verifier": "raevenwolf",
+    "verification": "https://www.youtube.com/watch?v=rYCgJ4WVjX8&ab_channel=%E2%9F%A2diphen%E2%9F%A3",
+    "percentToQualify": "0",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
