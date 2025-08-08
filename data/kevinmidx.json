@@ -1,0 +1,24 @@
+{
+    "id": 124175920,
+    "name": "Kevin Mid X",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "kubus",
+    "verification": "https://youtu.be/6zGKKlHB3DU?si=CdjFnM8oe8RDuXER",
+    "percentToQualify": "45",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "dogeplaysdg",
+            "link": "https://www.youtube.com/live/4F_tR5OXc-8?si=EHhHZbC4a1XYE1LS",
+            "percent": 65,
+            "hz": 60
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
