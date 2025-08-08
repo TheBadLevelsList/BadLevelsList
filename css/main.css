@@ -12,9 +12,9 @@
 main.dark,
 header.dark {
     color-scheme: dark;
-    --color-background: #FF0393;
+    --color-background: #000000;
     --color-on-background: white;
-    --color-background-hover: #FF0393;
+    --color-background-hover: #000000;
     --color-on-background-hover: white;
     --color-primary: #283593;
     --color-primary-disabled: #1f213c;
