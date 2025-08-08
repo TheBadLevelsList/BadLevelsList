@@ -5,20 +5,14 @@
     "creators": ["raevenwolf"],
     "verifier": "raevenwolf",
     "verification": "https://www.youtube.com/watch?v=rYCgJ4WVjX8&ab_channel=%E2%9F%A2diphen%E2%9F%A3",
-    "percentToQualify": "0",
+    "percentToQualify": "5",
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+            "user": "dogeplaysdg",
+            "link": "https://youtu.be/1zMaN6F6EYw?si=RXziiskj_7I949ho",
+            "percent": 5,
+            "hz": 60
         }
     ]
 }
