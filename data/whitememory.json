@@ -1,0 +1,24 @@
+{
+    "id": 122758387,
+    "name": "White Memory",
+    "author": "shondesu",
+    "creators": ["shondesu"],
+    "verifier": "shondesu",
+    "verification": "https://youtu.be/1zMaN6F6EYw?si=31mJCAi1DTxhxjTk",
+    "percentToQualify": "40",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "dogeplaysdg",
+            "link": "https://youtu.be/1zMaN6F6EYw?si=31mJCAi1DTxhxjTk",
+            "percent": 48,
+            "hz": 60
+        },
+        {
+            "user": "TBA",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 40,
+            "hz": 15
+        }
+    ]
+}
