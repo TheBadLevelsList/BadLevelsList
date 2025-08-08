@@ -1,0 +1,24 @@
+{
+    "id": 110415084,
+    "name": "Buffed F",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "raevenwolf",
+    "verification": "https://youtu.be/LwfkN0qSkTY?si=0L2N0XERzpmz6eCB",
+    "percentToQualify": "21",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "dogeplaysdg",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 24,
+            "hz": 60
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
