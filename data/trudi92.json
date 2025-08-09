@@ -1,0 +1,18 @@
+{
+    "id": 124371337,
+    "name": "Trudi92",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/1zMaN6F6EYw?si=88m2BIBaBwu5oisA",
+    "percentToQualify": "32",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Bot",
+            "link": "https://youtu.be/1zMaN6F6EYw?si=RXziiskj_7I949ho",
+            "percent": 32,
+            "hz": 1
+        }
+    ]
+}
