@@ -1,1 +1,18 @@
-109613667
+{
+    "id": 109613667,
+    "name": "Teal Planet",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/cNBL5hka2VE?si=vV2pTIacWbyrxTUW",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "HappyJaffa",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
