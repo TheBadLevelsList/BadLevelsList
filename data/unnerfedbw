@@ -1,0 +1,18 @@
+{
+    "id": 109611952,
+    "name": "Unnerfed Blue World",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/tQDMxskdEnY?si=oigChk92Us-Deh3P",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "MooshDaMoosh",
+            "link": "https://www.youtube.com/live/4F_tR5OXc-8?si=EHhHZbC4a1XYE1LS",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
