@@ -1,0 +1,18 @@
+{
+    "id": 122238134,
+    "name": "Catllab",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/APy2j6ZFWfU?si=6afGAik7zYrFEZkE",
+    "percentToQualify": "64",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nex (GDPS)",
+            "link": "https://www.youtube.com/live/4F_tR5OXc-8?si=EHhHZbC4a1XYE1LS",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
+}
