@@ -1,0 +1,18 @@
+{
+    "id": 78044066,
+    "name": "Sanic Waev",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/1zMaN6F6EYw?si=ihpIQfHyFsRG6nBl",
+    "percentToQualify": "53",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "HappyJaffa",
+            "link": "https://youtu.be/1zMaN6F6EYw?si=ihpIQfHyFsRG6nBl",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
