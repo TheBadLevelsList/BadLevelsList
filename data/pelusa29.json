@@ -1,0 +1,18 @@
+{
+    "id": 109904130,
+    "name": "pelusa29",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://www.youtube.com/watch?v=_omqyWPPDq0&list=PLUQ2Id347GF1-rsZxhQT2ONyCXA10qyBZ&index=11&ab_channel=Dogeball",
+    "percentToQualify": "44",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Zephyrfobber",
+            "link": "https://www.youtube.com/watch?v=_omqyWPPDq0&list=PLUQ2Id347GF1-rsZxhQT2ONyCXA10qyBZ&index=11&ab_channel=Dogeball",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
