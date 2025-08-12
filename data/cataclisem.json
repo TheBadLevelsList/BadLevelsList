@@ -5,13 +5,13 @@
     "creators": ["dogeplaysdg"],
     "verifier": "dogeplaysdg",
     "verification": "https://youtu.be/4xZQQgETcPM?si=kf5BKN71EY6oHXRZ",
-    "percentToQualify": "95",
-    "password": "Free To Copy"
+    "percentToQualify": "100",
+    "password": "Free To Copy",
     "records": [
         {
             "user": "Bot",
-            "link": "https://youtu.be/4xZQQgETcPM?si=kf5BKN71EY6oHXRZ",
-            "percent": 95,
+            "link": "https://www.youtube.com/live/4F_tR5OXc-8?si=EHhHZbC4a1XYE1LS",
+            "percent": 100,
             "hz": 60
         }
     ]
