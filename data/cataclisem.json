@@ -1,0 +1,18 @@
+{
+    "id": 109271271,
+    "name": "CATaclisem",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/w8OHyWQSTAA",
+    "percentToQualify": "95",
+    "password": "Free To Copy"
+    "records": [
+        {
+            "user": "Bot",
+            "link": "https://youtu.be/w8OHyWQSTAA",
+            "percent": 95,
+            "hz": 60
+        }
+    ]
+}
