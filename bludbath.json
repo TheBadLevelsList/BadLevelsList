@@ -1,0 +1,18 @@
+{
+    "id": 108882115,
+    "name": "bludbath",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/yYOallHVoGY",
+    "percentToQualify": "67",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Bot",
+            "link": "https://www.youtube.com/live/4F_tR5OXc-8?si=EHhHZbC4a1XYE1LS",
+            "percent": 67,
+            "hz": 67
+        }
+    ]
+}
