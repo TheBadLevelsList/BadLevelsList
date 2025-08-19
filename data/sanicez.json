@@ -1,1 +1,19 @@
-109302485
+{
+    "id": 109302485,
+    "name": "Sanic Ease",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/1zMaN6F6EYw?si=ihpIQfHyFsRG6nBl",
+    "percentToQualify": "53",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "HappyJaffa",
+            "link": "https://youtu.be/1zMaN6F6EYw?si=ihpIQfHyFsRG6nBl",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
+
