@@ -1,0 +1,18 @@
+{
+    "id": 109196964,
+    "name": "Susecat Cycles",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/H1ogJNpU4GE?si=5Ds1kFjUBpfWDt8v",
+    "percentToQualify": "66",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Bot",
+            "link": "https://youtu.be/P9iazmh05LM?si=ohnTSY8D82D0QQig",
+            "percent": 54,
+            "hz": 1
+        }
+    ]
+}
