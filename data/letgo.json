@@ -1,1 +1,18 @@
-https://youtu.be/qF51CdLir10?si=QWBXyPtXb-S0tozq
+{
+    "id": 122758387,
+    "name": "White Memory",
+    "author": "NokiaShade",
+    "creators": ["NokiaShade"],
+    "verifier": "NokiaShade",
+    "verification": "https://youtu.be/qF51CdLir10?si=QWBXyPtXb-S0tozq",
+    "percentToQualify": "40",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Pixxi",
+            "link": "https://discord.com/channels/1383526550229745755/1409208769887604963/1409208769887604963",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
