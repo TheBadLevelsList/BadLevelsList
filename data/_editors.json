@@ -6,18 +6,28 @@
     },
     {
         "role": "admin",
-        "name": "List Admin",
+        "name": "Pixxi",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+     {
+        "role": "admin",
+        "name": "NokiaShade",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "helper",
-        "name": "kubarc",
-        "link": "https://www.youtube.com/@kubarc2105"
+        "name": "Moderator",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
+        "name": "Trial Moderator",
         "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "dev",
+        "name": "dogeplaysdg",
+        "link": "https://www.youtube.com/@certified.dogeball"
     },
     {
         "role": "dev",
