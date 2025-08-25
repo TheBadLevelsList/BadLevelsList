@@ -1,0 +1,18 @@
+{
+    "id": 125165113,
+    "name": "Old Stereo Dogeness",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/_xPC3So8_Qk?si=RqNLsNaHXyQyqHiJ",
+    "percentToQualify": "56",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Bot",
+            "link": "https://youtu.be/5nh0cpWQ8rI?si=mxxdXUFBdtpE1f3_",
+            "percent": 0,
+            "hz": 1
+        }
+    ]
+}
