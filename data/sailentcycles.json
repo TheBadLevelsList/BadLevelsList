@@ -1,0 +1,18 @@
+{
+    "id": 125204575,
+    "name": "Sailent Cycles",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "Pixxi",
+    "verification": "https://youtu.be/GIpuq_mudoI",
+    "percentToQualify": "16",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "dogeplaysdg",
+            "link": "https://youtu.be/1zMaN6F6EYw?si=RXziiskj_7I949ho",
+            "percent": 19,
+            "hz": 60
+        }
+    ]
+}
