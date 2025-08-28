@@ -9,10 +9,10 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Bot",
+            "user": "Pixxi",
             "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
-            "percent": 0,
-            "hz": 1
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
