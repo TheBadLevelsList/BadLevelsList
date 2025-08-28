@@ -1,0 +1,18 @@
+{
+    "id": 125272035,
+    "name": "Final Fantasy Ultra",
+    "author": "magsteropishere",
+    "creators": ["magsteropishere"],
+    "verifier": "magsteropishere",
+    "verification": "https://youtu.be/zgvRR5I2CH8?si=Ei0Umki6XQtOWvSg",
+    "percentToQualify": "67",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Bot",
+            "link": "https://youtu.be/1zMaN6F6EYw?si=RXziiskj_7I949ho",
+            "percent": 0,
+            "hz": 60
+        }
+    ]
+}
