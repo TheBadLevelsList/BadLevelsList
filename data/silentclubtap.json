@@ -1,0 +1,18 @@
+{
+    "id": 126699660,
+    "name": "silent clubtap",
+    "author": "cacacatalyst69",
+    "creators": ["magsteropishere"],
+    "verifier": "magsteropishere",
+    "verification": "https://youtu.be/JIHIgnIw2tI?si=sS41o9wo7Ai_jHPu",
+    "percentToQualify": "20",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Bot",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "percent": 0,
+            "hz": 240
+        }
+    ]
+}
