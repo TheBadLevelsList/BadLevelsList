@@ -1,0 +1,18 @@
+{
+    "id": 127066778,
+    "name": "Zoink Circles",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://www.youtube.com/watch?v=4hLh0a3NfMA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Bot",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "percent": 0,
+            "hz": 67
+        }
+    ]
+}
