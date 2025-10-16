@@ -9,10 +9,10 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Bot",
-            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-            "percent": 0,
-            "hz": 67
+            "user": "2147483647",
+            "link": "https://youtu.be/tU73OjKzIJw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
