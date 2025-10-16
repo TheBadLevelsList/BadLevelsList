@@ -1,0 +1,18 @@
+{
+    "id": 125977634,
+    "name": "old molten sand",
+    "author": "masteropishere",
+    "creators": ["masteropishere"],
+    "verifier": "masteropishere",
+    "verification": "https://youtu.be/2Vp-eIP78Dc?si=DrMYtUDPMf9gO_Kc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Bot",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "percent": 0,
+            "hz": 240
+        }
+    ]
+}
