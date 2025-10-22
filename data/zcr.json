@@ -1,0 +1,18 @@
+{
+    "id": 127291125,
+    "name": "ZoinkCirclesRebirth",
+    "author": "Del12K",
+    "creators": ["dogeplaysdg","Del12K"]
+    "verifier": "2147483647",
+    "verification": "https://www.youtube.com/watch?v=vY2h2l9mQlo",
+    "percentToQualify": "27",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Bot",
+            "link": "https://www.youtube.com/watch?v=vY2h2l9mQlo",
+            "percent": 0,
+            "hz": 240
+        }
+    ]
+}
