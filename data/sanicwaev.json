@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
             "percent": 100,
             "hz": 240
-        }
+        },
+    {
+        "user": "hamburger",
+        "link": "https://www.youtube.com/watch?v=EkVkw1OLEp0",
+        "percent": 100,
+        "hz": 75
+    }
     ]
 }
