@@ -2,10 +2,10 @@
     "id": 127291125,
     "name": "ZoinkCirclesRebirth",
     "author": "Del12K",
-    "creators": ["dogeplaysdg", "Del12K"],
+    "creators": ["dogeplaysdg","Del12K"],
     "verifier": "2147483647",
     "verification": "https://www.youtube.com/watch?v=vY2h2l9mQlo",
-    "percentToQualify": "27",
+    "percentToQualify": “27”,
     "password": "Free To Copy",
     "records": [
         {
@@ -16,8 +16,9 @@
         },
         {
             "user": "FemgramGD",
-            "link": "https://www.youtube.com/watch?v=vev9X377PqA",
+            "link": "https://www.youtube.com/watch?v=vev9X377PqA"",
             "percent": 97,
+            "hz": 240
         }
     ]
 }
