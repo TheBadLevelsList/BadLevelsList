@@ -1,0 +1,18 @@
+{
+    "id": 127333784,
+    "name": "fiery flames v3wut",
+    "author": "WaitMathRandom",
+    "creators": ["WaitMathRandom"],
+    "verifier": "WaitMathRandom",
+    "verification": "https://youtube.com/watch?v=ZyADWv9KjNA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Bot",
+            "link": "https://youtu.be/a8kwh4Bt6b0",
+            "percent": 0,
+            "hz": 240
+        }
+    ]
+}
