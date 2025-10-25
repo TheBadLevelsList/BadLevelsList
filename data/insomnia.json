@@ -1,0 +1,18 @@
+{
+    "id": 127395541,
+    "name": "Insomnia of Death",
+    "author": "2147483647",
+    "creators": ["TheRealDefeco","TgSaturne"],
+    "verifier": "2147483647",
+    "verification": "https://www.youtube.com/watch?v=Tcjj4hMZcC0",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Bot",
+            "link": "https://www.youtube.com/watch?v=h_CtGKYYm7g",
+            "percent": 0,
+            "hz": 240
+        }
+    ]
+}
