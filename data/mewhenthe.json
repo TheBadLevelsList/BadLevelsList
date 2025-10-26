@@ -1,0 +1,18 @@
+{
+    "id": 127368847,
+    "name": "me when the",
+    "author": "WaitMathRandom",
+    "creators": ["WaitMathRandom"],
+    "verifier": "WaitMathRandom",
+    "verification": "https://www.youtube.com/watch?v=iM-Ic-bmwiA",
+    "percentToQualify": "47",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Bot",
+            "link": "https://www.youtube.com/watch?v=h_CtGKYYm7g",
+            "percent": 0,
+            "hz": 240
+        }
+    ]
+}
