@@ -8,27 +8,8 @@
     "percentToQualify": "40",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "gatsZ",
-            "link": "https://www.youtube.com/live/4F_tR5OXc-8?si=EHhHZbC4a1XYE1LS",
-            "percent": 100,
-            "hz": 360
-        },
-        {
             "user": "Emmo9673",
             "link": "https://youtu.be/t5EUFE9PYdI?si=DXcRF55mkB50GhFH",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Pixxi",
-            "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "hamburgerman99",
-            "link": "https://youtu.be/AOOhK9QXJyE",
             "percent": 100,
             "hz": 60
         }
