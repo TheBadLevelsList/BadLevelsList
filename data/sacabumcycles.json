@@ -8,17 +8,5 @@
     "percentToQualify": "54",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Pixxi",
-            "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "LotusGMDD",
-            "link": "https://youtu.be/u12mqUuq58Y?si=yr3eYA38TLEDmlU9",
-            "percent": 100,
-            "hz": 90
-        }
     ]
 }
