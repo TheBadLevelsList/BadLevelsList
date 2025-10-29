@@ -8,29 +8,5 @@
     "percentToQualify": "67",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Pixxi",
-            "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "gdgamerproxd",
-            "link": "https://youtu.be/b0gyQMJHQ78?si=HqRebnKF-GER9Lqq",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Baljai",
-            "link": "https://youtu.be/paETZtKrZFg",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "FemgramGD",
-            "link": "https://youtu.be/LRnTXFBXvsY?si=bSdOQvd3YBRXdSCc",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
