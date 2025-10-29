@@ -8,17 +8,5 @@
     "percentToQualify": "60",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "magsterOP",
-            "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Pixxi",
-            "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
