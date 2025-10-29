@@ -13,18 +13,6 @@
             "link": "https://youtu.be/1zMaN6F6EYw?si=ihpIQfHyFsRG6nBl",
             "percent": 100,
             "hz": 60
-        },
-        {
-            "user": "Pixxi",
-            "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
-            "percent": 100,
-            "hz": 240
-        },
-    {
-        "user": "hamburgerman99",
-        "link": "https://www.youtube.com/watch?v=EkVkw1OLEp0",
-        "percent": 100,
-        "hz": 60
-    }
+        }
     ]
 }
