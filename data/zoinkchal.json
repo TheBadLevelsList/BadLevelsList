@@ -8,25 +8,6 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "2147483647",
-            "link": "https://www.youtube.com/watch?v=UeigTSVUIxY",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "birdmaster11",
-            "link": "https://www.youtube.com/watch?v=1TjWvl6MOcA",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            
-            "user": "hamburgerman99",
-            "link": "https://www.youtube.com/watch?v=dEgF5l8I3J8",
-            "percent": 100,
-            "hz": 75
-        }
     ]
 }
         
