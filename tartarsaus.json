@@ -1,0 +1,24 @@
+{
+    "id": 109152778,
+    "name": "Sacapelusa Cycles",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/H1ogJNpU4GE?si=5Ds1kFjUBpfWDt8v",
+    "percentToQualify": "54",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Pixxi",
+            "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "NokiaShade",
+            "link": "https://www.youtube.com/live/4F_tR5OXc-8?si=EHhHZbC4a1XYE1LS",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

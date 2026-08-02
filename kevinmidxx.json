@@ -1,0 +1,24 @@
+{
+    "id": 120701707,
+    "name": "Club Tap",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/VInQkeec188?si=n-MJUgJ_1MxasvAC",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "magsterOP",
+            "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Pixxi",
+            "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

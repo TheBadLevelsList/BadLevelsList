@@ -1,0 +1,36 @@
+{
+    "id": 123056247,
+    "name": "I hate twitter",
+    "author": "HappyJaffa",
+    "creators": ["HappyJaffa"],
+    "verifier": "HappyJaffa",
+    "verification": "https://youtu.be/_y3XtGxO1Wo?si=Q7LXIsiGWi7cQDUX",
+    "percentToQualify": "10",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "dogeplaysdg",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 14,
+            "hz": 60
+        },
+        {
+            "user": "Pixxi",
+            "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kubarc",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 42,
+            "hz": 60
+        },
+        {
+            "user": "NokiaShade",
+            "link": "https://www.youtube.com/live/4F_tR5OXc-8?si=EHhHZbC4a1XYE1LS",
+            "percent": 17,
+            "hz": 60
+        }
+    ]
+}

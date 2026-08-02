@@ -1,0 +1,24 @@
+{
+    "id": 122969981,
+    "name": "chat is this real",
+    "author": "HappyJaffa",
+    "creators": ["HappyJaffa"],
+    "verifier": "HappyJaffa",
+    "verification": "https://youtu.be/EDypB2B4aqo?si=KG2U4gYNf2eKBZYR",
+    "percentToQualify": "9",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Pixxi",
+            "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "dogeplaysdg",
+            "link": "https://youtu.be/1zMaN6F6EYw?si=RXziiskj_7I949ho",
+            "percent": 10,
+            "hz": 60
+        }
+    ]
+}

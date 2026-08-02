@@ -1,0 +1,30 @@
+{
+    "id": 109271271,
+    "name": "CATaclisem",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/TD0n8oUoujk?si=LJeUOKRFSy4z5fyj",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Emmo9673",
+            "link": "https://www.youtube.com/live/4F_tR5OXc-8?si=EHhHZbC4a1XYE1LS",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Pixxi",
+            "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "NokiaShade",
+            "link": "https://www.youtube.com/live/4F_tR5OXc-8?si=EHhHZbC4a1XYE1LS",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

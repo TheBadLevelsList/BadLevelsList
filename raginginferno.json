@@ -1,0 +1,18 @@
+{
+    "id": 127221107,
+    "name": "Mayday",
+    "author": "Luigiman321",
+    "creators": ["LotusGMDD"],
+    "verifier": "Luigiman321",
+    "verification": "https://www.youtube.com/watch?v=jxXTIZq2l2Y",
+    "percentToQualify": "37",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Bot",
+            "link": "https://www.youtube.com/watch?v=jxXTIZq2l2Y",
+            "percent": 0,
+            "hz": 60
+        }
+    ]
+}

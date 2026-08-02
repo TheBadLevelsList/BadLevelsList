@@ -1,0 +1,18 @@
+{
+    "id": 125550572,
+    "name": "Nerfed J",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/oUS17wcl2BY?si=rggDWx1UmkRtQFYE",
+    "percentToQualify": "37",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Bot",
+            "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}

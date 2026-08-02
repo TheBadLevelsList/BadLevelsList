@@ -1,0 +1,30 @@
+{
+    "id": 120074525,
+    "name": "Sanic Waev",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/1zMaN6F6EYw?si=ihpIQfHyFsRG6nBl",
+    "percentToQualify": "53",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "HappyJaffa",
+            "link": "https://youtu.be/1zMaN6F6EYw?si=ihpIQfHyFsRG6nBl",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Pixxi",
+            "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
+            "percent": 100,
+            "hz": 240
+        },
+    {
+        "user": "pluhmachine",
+        "link": "https://www.youtube.com/watch?v=EkVkw1OLEp0",
+        "percent": 100,
+        "hz": 60
+    }
+    ]
+}

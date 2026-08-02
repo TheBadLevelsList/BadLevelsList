@@ -1,0 +1,18 @@
+{
+    "id": 109503011,
+    "name": "Unerfgeist",
+    "author": "dogeplaysdg",
+    "creators": ["dogeplaysdg"],
+    "verifier": "dogeplaysdg",
+    "verification": "https://youtu.be/1zMaN6F6EYw",
+    "percentToQualify": "47",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Pixxi",
+            "link": "https://www.youtube.com/watch?v=DV90bxQ7pgk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
