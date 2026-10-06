@@ -1,42 +1,22 @@
 [
     {
         "role": "owner",
-        "name": "dogeplaysdg",
-        "link": "https://www.youtube.com/@certified.dogeball"
+        "name": "Dogeball",
+        "link": "https://www.youtube.com/@certidoge"
     },
     {
         "role": "admin",
-        "name": "Del12K",
-        "link": "https://www.youtube.com/@del12kguide"
-    },
-     {
-        "role": "admin",
-        "name": "magsterOP",
-        "link": "https://www.youtube.com/@sadpoureal"
-    },
-    {
-        "role": "admin",
-        "name": "FemgramGD",
-        "link": "https://www.youtube.com/@femgram_GD"
+        "name": "Free Spot",
+        "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
         "role": "trial",
-        "name": "Pixxi",
-        "link": "hhttps://www.youtube.com/@pixxigd"
-    },
-    {
-        "role": "trial",
-        "name": "raevenwolf",
-        "link": "https://www.youtube.com/@DIPHENHYDRAMINEMAN"
-    },
-    {
-        "role": "trial",
-        "name": "2147483647",
-        "link": "https://www.youtube.com/@x2147483647"
+        "name": "Free Spot",
+        "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
         "role": "dev",
-        "name": "Prometheus",
+        "name": "Dogeball",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
