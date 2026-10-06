@@ -8,11 +8,5 @@
     "percentToQualify": "45",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "HappyJaffa",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 60,
-            "hz": 60
-        }
     ]
 }
